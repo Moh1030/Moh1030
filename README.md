@@ -2,9 +2,8 @@
 
 <!-- Replace with your own emoji and title -->
 🎓 3rd Year B.Tech undergrad who writes code, breaks it, fixes it, and occasionally ends up learning something new in the process. 
-| 👨‍💻 Aspiring Full Stack Developer | 
  
-
+ 
 ---
 
 
@@ -42,5 +41,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mohit-kumar-agarwal-4593a328b/))
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwalmohit3010@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)]((https://moh1030.github.io/My-portfolio/))
+
 
